@@ -88,8 +88,8 @@ A hands-on lab demonstrating end-to-end endpoint management — enrolling device
 |---|---|
 | ITIL V4 Foundation (Introduction) | AXELOS |
 | Project Management Certification | NPTEL |
-| Python Programming | — |
-| Data Analytics Training | — |
+| Python Programming | Jobaaj Learning |
+| Data Analytics Training |  Jobaaj Learning |
 
 <br/>
 
