@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Ratika Jadhav 👋
+# Hi there, I'm Ratika Ravindra Jadhav 👋
 
 ### Microsoft Intune Administrator&nbsp;|&nbsp;Endpoint Management&nbsp;|&nbsp;Microsoft Entra ID
 
